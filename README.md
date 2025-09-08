@@ -15,6 +15,7 @@ El dashboard incluye:
 ### 1. Uso online
 El dashboard está desplegado en Render y puedes acceder aquí:  
   **Dashboard en línea:** [Ver aquí](https://sprint-7-software154.onrender.com/)
+  
 Situando el cursor en cada uno de los títulos de histograma o grafica de dispersión para su despliegue de este, asi como en la parte lateral izquierda podrá encontrar los filtros para poder hacer mas minuciosa su búsqueda.
 
 ### 2. Uso local
