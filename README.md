@@ -23,5 +23,4 @@ Si prefieres ejecutarlo en tu computadora:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/jovaninoec-stack/Sprint-7-software.git
-   cd Sprint-7-software 
+   git clone (https://github.com/jovaninoec-stack/Sprint-7-software)
